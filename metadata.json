@@ -1,0 +1,5 @@
+{
+  "name": "FinAI - Phân tích BCTC Thông minh",
+  "description": "Ứng dụng phân tích báo cáo tài chính và tờ khai thuế từ file XML, tích hợp trợ lý ảo AI và biểu đồ trực quan.",
+  "requestFramePermissions": []
+}
